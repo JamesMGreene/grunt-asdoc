@@ -69,7 +69,7 @@ grunt.initConfig({
   asdoc: {
     example1: {
       'docs/': ['src/example.as']
-    },
+    }
   }
 });
 ```
