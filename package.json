@@ -1,7 +1,7 @@
 {
   "name": "grunt-asdoc",
   "description": "A Grunt task plugin to generate documentation for Adobe Flex/ActionScript/MXML/FLV/etc. apps with the `asdoc` tool from the Apache/Adobe Flex SDK.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/JamesMGreene/grunt-asdoc",
   "author": {
     "name": "James M. Greene",
@@ -30,7 +30,7 @@
     "test": "grunt travis --verbose"
   },
   "peerDependencies": {
-    "flex-sdk": ">= 3.0.0"
+    "flex-sdk": ">= 3.0.0-0"
   },
   "dependencies": {
     "async": "~0.2.10"
@@ -40,7 +40,7 @@
     "grunt-contrib-jshint": "~0.8.0",
     "grunt-contrib-nodeunit": "~0.3.0",
     "grunt-contrib-clean": "~0.5.0",
-    "flex-sdk": ">= 3.0.0"
+    "flex-sdk": ">= 3.0.0-0"
   },
   "keywords": [
     "gruntplugin",
