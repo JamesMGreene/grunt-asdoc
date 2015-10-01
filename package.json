@@ -1,12 +1,12 @@
 {
   "name": "grunt-asdoc",
   "description": "A Grunt task plugin to generate documentation for Adobe Flex/ActionScript/MXML/FLV/etc. apps with the `asdoc` tool from the Apache/Adobe Flex SDK.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/JamesMGreene/grunt-asdoc",
   "author": {
     "name": "James M. Greene",
     "email": "james.m.greene@gmail.com",
-    "url": "http://jamesgreene.net/"
+    "url": "http://greene.io/"
   },
   "repository": {
     "type": "git",
